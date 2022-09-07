@@ -1,2 +1,2 @@
 #!/bin/bash
-echo NUM="'$5.75'"
+echo NUM="\$2.31"
